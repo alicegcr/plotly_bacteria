@@ -21,3 +21,5 @@ Observing this affects the presence or absence of bacteria.
 - Bubble Graph
 And finally, in the bubble graph, there is the number of bacteria found in each volunteer. 
 So it was being able to see the colony of bacteria.
+
+https://alicegcr.github.io/plotly_bacteria/
